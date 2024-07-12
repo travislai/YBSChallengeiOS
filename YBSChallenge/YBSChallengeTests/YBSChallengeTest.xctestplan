@@ -1,0 +1,29 @@
+{
+  "configurations" : [
+    {
+      "id" : "4DCCA0D9-BF4F-4E42-9807-6FE436BA9AF5",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:YBSChallenge.xcodeproj",
+      "identifier" : "D51B5A492C3BFDB1004F961F",
+      "name" : "YBSChallenge"
+    },
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:YBSChallenge.xcodeproj",
+        "identifier" : "D51B5A592C3BFDB5004F961F",
+        "name" : "YBSChallengeTests"
+      }
+    }
+  ],
+  "version" : 1
+}
